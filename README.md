@@ -3,9 +3,9 @@ This is a blob triggered Azure Function that loads csv data to SQL Azure. Each t
 This function bulk inserts data to a sql azure database. 
 
 # Project architecture
-1. Azure function Project : 
-2. SQL Azure database : table for storing TOU and LP data. Also contains a stored 
-3. Azure blob storage container : blob named 'import'
+1. Azure function Project 
+2. SQL Azure database  
+3. Azure blob storage container 
 
 Blob storage
 ============================
